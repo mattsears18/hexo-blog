@@ -80,5 +80,5 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/mattsears18/hexo-blog
-  branch: master
+  branch: publish
   
