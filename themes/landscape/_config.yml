@@ -1,8 +1,12 @@
 # Header
 menu:
   Home: /
-  Archives: /archives
-rss: /atom.xml
+#  Archives: /archives
+  About: /about
+  Travel: /travel
+  Van Build: /van-build
+  Research: /research
+#rss: /atom.xml
 
 # Content
 excerpt_link: Read More
