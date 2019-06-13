@@ -7,7 +7,7 @@
   },
   "scripts": {
     "start": "hexo server",
-    "update": "git add . && git commit -m 'update'"
+    "push": "git add . && git commit -m 'update' && git push origin master"
   },
   "dependencies": {
     "hexo": "^3.8.0",
