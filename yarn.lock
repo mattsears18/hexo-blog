@@ -1248,6 +1248,11 @@ hexo-server@^0.3.3:
     opn "^5.3.0"
     serve-static "^1.13.2"
 
+hexo-tag-instagram@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/hexo-tag-instagram/-/hexo-tag-instagram-1.1.0.tgz#b5fa293c72552e00cf59023773ce014f34e83f4c"
+  integrity sha512-qzkX7IkTgyYdaiNUd8w82vjpLFm9RzK3CnJYPylrTcwCSVoU+gA+Gf16Usdj9M63TK8OshV2yk1C2rQrATbAFw==
+
 hexo-util@^0.6.0, hexo-util@^0.6.2, hexo-util@^0.6.3:
   version "0.6.3"
   resolved "https://registry.yarnpkg.com/hexo-util/-/hexo-util-0.6.3.tgz#16a2ade457bef955af0dfd22a3fe6f0a49a9137c"
