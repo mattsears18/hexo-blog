@@ -1,8 +1,8 @@
 ---
-title: Hello, hexo!
+title: Hello, Hexo!
 date: 2019-06-06 22:27:24
 categories:
-  - Web Development
+  - Software Development
 tags:
   - Serverless
 ---
